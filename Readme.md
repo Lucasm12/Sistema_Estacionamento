@@ -1,4 +1,5 @@
 # Projeto " Sistema de Estacionamento "
-## Sistema de Controlhe de Entrada e Saída de Veiculos 
+## Sistema simples e prático para gerenciar a entrada e sáida de véiculo 
+
 
 ![Img1]()
